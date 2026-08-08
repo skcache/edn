@@ -1,6 +1,6 @@
 # edn
 
-[![skills.sh](https://skills.sh/b/skcache/edn)](https://skills.sh/skcache/edn)
+[![skills.sh](https://skills.sh/b/skcache/edn/edn)](https://skills.sh/skcache/edn/edn)
 [![OpenSkills](https://img.shields.io/badge/OpenSkills-compatible-black)](https://github.com/numman-ali/openskills)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-black)](https://docs.openclaw.ai/skills)
 [![MIT](https://img.shields.io/badge/license-MIT-black)](LICENSE)
