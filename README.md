@@ -1,5 +1,7 @@
 # edn
 
+[![skills.sh](https://skills.sh/b/skcache/edn)](https://skills.sh/skcache/edn)
+
 **Engineering Dashboard Notebook**
 
 AI coding agents can write most of the code now.
