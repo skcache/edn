@@ -1,5 +1,5 @@
 ---
-name: engineering-notebook
+name: engineering-dashboard-notebook
 description: Maintain a local, human-facing engineering dashboard notebook for repositories built with AI coding agents. Use before and after meaningful implementation work to keep the repository owner synchronized with architecture, component ownership, dependencies, system/data flows, tradeoffs, failure modes, verification evidence, current vs proposed design, and major technical decisions. Trigger for feature implementation, architectural changes, refactors that move ownership, new services/stores/queues/caches/external dependencies, or when the user asks to understand what an agent built.
 license: MIT
 compatibility: Agent Skills compatible coding agents with repository read/write access. Designed for local repository workflows. No external service required.
