@@ -3,8 +3,7 @@
 [![skills.sh](https://skills.sh/b/skcache/edn)](https://skills.sh/skcache/edn)
 [![OpenSkills](https://img.shields.io/badge/OpenSkills-compatible-black)](https://github.com/numman-ali/openskills)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-black)](https://docs.openclaw.ai/skills)
-[![Codex](https://img.shields.io/badge/Codex-compatible-black)](https://github.com/openai/codex)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-black)](https://docs.anthropic.com/en/docs/claude-code)
+[![MIT](https://img.shields.io/badge/license-MIT-black)](LICENSE)
 
 
 **Engineering Dashboard Notebook**
