@@ -1,6 +1,11 @@
 # edn
 
 [![skills.sh](https://skills.sh/b/skcache/edn)](https://skills.sh/skcache/edn)
+[![OpenSkills](https://img.shields.io/badge/OpenSkills-compatible-black)](https://github.com/numman-ali/openskills)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-compatible-black)](https://docs.openclaw.ai/skills)
+[![Codex](https://img.shields.io/badge/Codex-compatible-black)](https://github.com/openai/codex)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-compatible-black)](https://docs.anthropic.com/en/docs/claude-code)
+
 
 **Engineering Dashboard Notebook**
 
@@ -72,6 +77,18 @@ For Claude Code:
 
 ```bash
 npx skills add skcache/edn -a claude-code
+```
+
+For OpenClaw:
+
+```bash
+openclaw skills install @skcache/edn
+```
+
+For OpenSkills:
+
+```bash
+npx openskills install skcache/edn
 ```
 
 The `skills` CLI supports a bunch of coding agents and installs skills directly from GitHub.
